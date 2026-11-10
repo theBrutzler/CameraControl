@@ -1,3 +1,3 @@
 @echo off
 cd /d "%~dp0"
-"%LOCALAPPDATA%\Programs\Python\Python312\python.exe" rally_gui.py 2> error.log
+start "" pyw -3.12 rally_gui.py

@@ -1,0 +1,7 @@
+build/
+dist/
+__pycache__/
+*.pyc
+error.log
+presets.json
+*.spec.bak
