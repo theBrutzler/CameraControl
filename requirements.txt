@@ -1,0 +1,3 @@
+pygrabber
+comtypes
+psutil
